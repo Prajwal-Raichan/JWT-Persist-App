@@ -1,0 +1,19 @@
+{
+  "logins": [
+    {
+      "username": "a",
+      "password": "v",
+      "id": 1
+    },
+    {
+      "username": "a",
+      "password": "v",
+      "id": 2
+    },
+    {
+      "username": "aa",
+      "password": "vv",
+      "id": 3
+    }
+  ]
+}
