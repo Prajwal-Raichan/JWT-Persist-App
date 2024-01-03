@@ -15,7 +15,7 @@ import { useStateAuthContext } from "./Contexts/ContextAuthProvider";
 import AdminActions from './Components/Shared/Doctor/AdminActions';
 import Missing from './Components/Common/Missing';
 import Unauthorized from './Components/Common/Unauthorized';
-import GetAllUsers from "./Components/Services/GetAllUsers";
+import GetAllUsers from "./Components/services/GetAllUsers";
 
 const ROLES = {
   'admin':  'admin',
